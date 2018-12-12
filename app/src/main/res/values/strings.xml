@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">FinalPPC</string>
+    <string name="welcome">Bienvenid@</string>
+    <string name="UserName">Nombre de Usuario</string>
+    <string name="Pass">Contraseña</string>
+    <string name="login">Iniciar Sesion</string>
+    <string name="passError">Contraseña no válida</string>
+    <string name="nameEmpty">Nombre de usuario incorrecto</string>
+
+    <string name="hello">Hola</string>
+    <string name="recalculando">Recalculando...</string>
+    <string name="msjAyuda">Tu GPS se encuentra apagado, por favor enciéndelo.</string>
+    <string name="msjInfo">Obteniendo coordenadas del GPS,\n esto puede tardar unos minutos</string>
+    <string name="lostMan">img_LostMan</string>
+    <string name="msjSalida">Enserio quieres marcharte?</string>
+    <string name="confirmSalida">Salir</string>
+
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="distancia">Distancia</string>
+    <string name="detalles">Detalles</string>
+    <string name="direccion">Dirección</string>
+    <string name="tipo">Tipo</string>
+    <string name="comprar">Comprar</string>
+    <string name="comprado">Comprado</string>
+    <string name="sinSaldo">Vaya, esto es mas de lo que puedes pagar</string>
+</resources>
